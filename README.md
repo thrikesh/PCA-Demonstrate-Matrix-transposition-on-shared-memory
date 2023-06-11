@@ -288,7 +288,7 @@ int main(int argc, char **argv)
 }
 
 ## Output:
-
+<br>![output](./pca(ex6).png)
 ## Result:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
 
